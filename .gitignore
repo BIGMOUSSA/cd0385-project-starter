@@ -1,0 +1,5 @@
+AutogluonModels/
+*.csv
+.ipynb*
+project/*.csv
+venv/*
